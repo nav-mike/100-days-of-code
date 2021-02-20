@@ -16,3 +16,10 @@
 
 **Link to work:** [Wallet](https://github.com/nav-mike/wallet)
 
+### Day 3: February 20, 2021
+
+**Today's Progress**: I learnt react hooks whole day. I've added action's constant and reducer function.
+
+**Thoughts:** Vim is awesome. React hooks are still difficult for me, but I understand it better. I think I will finish with hooks next week.
+
+**Link to work:** [Wallet](https://github.com/nav-mike/wallet)
