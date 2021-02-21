@@ -23,3 +23,11 @@
 **Thoughts:** Vim is awesome. React hooks are still difficult for me, but I understand it better. I think I will finish with hooks next week.
 
 **Link to work:** [Wallet](https://github.com/nav-mike/wallet)
+
+### Day 4: February 22, 2021
+
+**Today's Progress**: I removed react-firestore. I'm trying to use pure firestore lib for the app.
+
+**Thoughts:** I think, I should develop a state for the app using fure firestore lib, because my state includes budget val and outcomes val from firestore db and I should manage it.
+
+**Link to work:** [Wallet](https://github.com/nav-mike/wallet)
