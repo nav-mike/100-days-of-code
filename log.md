@@ -34,7 +34,7 @@
 
 ### Day 5: February 22, 2021
 
-**Today's Progress**: I've finished with state management in my app. Everything is working!.
+**Today's Progress**: I've finished with state management in my app. Everything is working!
 
 **Thoughts:** It was a very useful experience with react hooks. Now I have some warnings and I should fix them.
 
