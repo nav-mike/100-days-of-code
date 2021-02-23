@@ -39,3 +39,11 @@
 **Thoughts:** It was a very useful experience with react hooks. Now I have some warnings and I should fix them.
 
 **Link to work:** [Wallet](https://github.com/nav-mike/wallet)
+
+### Day 6: February 23, 2021
+
+**Today's Progress**: Today I fixed warnings and styles. Also I've fixed bug with case when data isn't in database.
+
+**Thoughts:** Now styles are ok. I've some bugs with color indicators and I should do small refactoring.
+
+**Link to work:** [Wallet](https://github.com/nav-mike/wallet)
