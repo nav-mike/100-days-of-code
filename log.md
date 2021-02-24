@@ -47,3 +47,11 @@
 **Thoughts:** Now styles are ok. I've some bugs with color indicators and I should do small refactoring.
 
 **Link to work:** [Wallet](https://github.com/nav-mike/wallet)
+
+### Day 7: February 24, 2021
+
+**Today's Progress**: I've fixed some styles and I've done small refactoring. Also I've deployed first version of my app to firebase.
+
+**Thoughts:** I've added issue and I will fix it tomorrow.
+
+**Link to work:** [Wallet](https://github.com/nav-mike/wallet)
