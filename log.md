@@ -55,3 +55,11 @@
 **Thoughts:** I've added issue and I will fix it tomorrow.
 
 **Link to work:** [Wallet](https://github.com/nav-mike/wallet)
+
+### Day 8: February 25, 2021
+
+**Today's Progress**: I fix a lot of offenses using eslint and prettier.
+
+**Thoughts:** Tomorrow I will fix these offenses again.
+
+**Link to work:** [Wallet](https://github.com/nav-mike/wallet)
