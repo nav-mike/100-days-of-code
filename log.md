@@ -63,3 +63,11 @@
 **Thoughts:** Tomorrow I will fix these offenses again.
 
 **Link to work:** [Wallet](https://github.com/nav-mike/wallet)
+
+### Day 9: February 26, 2021
+
+**Today's Progress**: I've fixed offenses using eslint and prettier. Also, I wrote some tests for the app.
+
+**Thoughts:** Tomorrow I will continue with tests.
+
+**Link to work:** [Wallet](https://github.com/nav-mike/wallet)
