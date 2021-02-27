@@ -71,3 +71,11 @@
 **Thoughts:** Tomorrow I will continue with tests.
 
 **Link to work:** [Wallet](https://github.com/nav-mike/wallet)
+
+### Day 10: February 27, 2021
+
+**Today's Progress**: I wrote some tests for the app and I read about Enzyme.
+
+**Thoughts:** Tomorrow I will continue with tests.
+
+**Link to work:** [Wallet](https://github.com/nav-mike/wallet)
