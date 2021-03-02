@@ -87,3 +87,11 @@
 **Thoughts:** Tomorrow I will continue with tests.
 
 **Link to work:** [Wallet](https://github.com/nav-mike/wallet)
+
+### Day 12: March 2, 2021
+
+**Today's Progress**: I wrote some tests for the app. I tested state, hooks, events.
+
+**Thoughts:** I have finished with tests.
+
+**Link to work:** [Wallet](https://github.com/nav-mike/wallet)
