@@ -95,3 +95,11 @@
 **Thoughts:** I have finished with tests.
 
 **Link to work:** [Wallet](https://github.com/nav-mike/wallet)
+
+### Day 13: March 2, 2021
+
+**Today's Progress**: I've started a new project - it will be a new version of [wallet](https://github.com/nav-mike/wallet)
+
+**Thoughts:** It will be very useful for me: react boilerplate + typescript + redux + jest.
+
+**Link to work:** [Wallet](https://github.com/nav-mike/wallet)
