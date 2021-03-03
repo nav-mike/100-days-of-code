@@ -102,4 +102,4 @@
 
 **Thoughts:** It will be very useful for me: react boilerplate + typescript + redux + jest.
 
-**Link to work:** [Wallet](https://github.com/nav-mike/wallet)
+**Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
