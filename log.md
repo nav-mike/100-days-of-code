@@ -111,3 +111,11 @@
 **Thoughts:** First expirience with styled components. It's cool.
 
 **Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
+
+### Day 15: March 6, 2021
+
+**Today's Progress**: I've added more charts and some tests for my components.
+
+**Thoughts:** Currently project is not difficult.
+
+**Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
