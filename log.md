@@ -119,3 +119,11 @@
 **Thoughts:** Currently project is not difficult.
 
 **Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
+
+### Day 16: March 7, 2021
+
+**Today's Progress**: I've done small refactoring.
+
+**Thoughts:** Tomorrow I will develop create charge page, also I should add fake json server.
+
+**Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
