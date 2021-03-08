@@ -127,3 +127,11 @@
 **Thoughts:** Tomorrow I will develop create charge page, also I should add fake json server.
 
 **Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
+
+### Day 17: March 8, 2021
+
+**Today's Progress**: I worked with styled components.
+
+**Thoughts:** Tomorrow I will continue create charge page.
+
+**Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
