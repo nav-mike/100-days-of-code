@@ -135,3 +135,11 @@
 **Thoughts:** Tomorrow I will continue create charge page.
 
 **Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
+
+### Day 18: March 9, 2021
+
+**Today's Progress**: I worked with styled components (again) and I studied some freeCodeCamp lessons about css.
+
+**Thoughts:** Tomorrow I will continue with some base html components and tests.
+
+**Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
