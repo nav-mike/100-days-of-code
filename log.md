@@ -143,3 +143,12 @@
 **Thoughts:** Tomorrow I will continue with some base html components and tests.
 
 **Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
+
+### Day 19: March 10, 2021
+
+**Today's Progress**: I've added some tests for my styled components.
+
+**Thoughts:** Tomorrow I will develop delete charge page.
+
+**Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
+
