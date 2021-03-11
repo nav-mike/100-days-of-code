@@ -152,3 +152,11 @@
 
 **Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
 
+### Day 20: March 10, 2021
+
+**Today's Progress**: I developed delete charge page and some tests for the page and page's components.
+
+**Thoughts:** Now I'm developing only ui without any backend code.
+
+**Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
+
