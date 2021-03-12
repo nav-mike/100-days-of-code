@@ -160,3 +160,11 @@
 
 **Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
 
+### Day 21: March 10, 2021
+
+**Today's Progress**: I developed tests for a new page.
+
+**Thoughts:** Now I'm developing only ui without any backend code.
+
+**Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
+
