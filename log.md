@@ -176,3 +176,11 @@
 
 **Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
 
+### Day 23: March 16, 2021
+
+**Today's Progress**: I added one more page for the project.
+
+**Thoughts:** Also I need to add some tests (snapshots).
+
+**Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
+
