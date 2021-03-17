@@ -184,3 +184,11 @@
 
 **Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
 
+### Day 24: March 17, 2021
+
+**Today's Progress**: I added some tests.
+
+**Thoughts:** I will add firebase auth.
+
+**Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
+
