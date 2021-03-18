@@ -192,3 +192,11 @@
 
 **Link to work:** [Wallet2](https://github.com/nav-mike/wallet2)
 
+### Day 25: March 18, 2021
+
+**Today's Progress**: I did with freeCodeCamp html+css tasks.
+
+**Thoughts:** Tomorrow I will continue with freeCodeCamp.
+
+**Link to work:** -
+
