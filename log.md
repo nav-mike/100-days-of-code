@@ -198,5 +198,13 @@
 
 **Thoughts:** Tomorrow I will continue with freeCodeCamp.
 
-**Link to work:** -
+**Link to work:** [freeCodeCamp](https://codepen.io/nav-mike/pen/QWGXreP)
+
+### Day 26: March 19, 2021
+
+**Today's Progress**: I did with freeCodeCamp html+css tasks.
+
+**Thoughts:** Tomorrow I will continue with freeCodeCamp.
+
+**Link to work:** [freeCodeCamp](https://codepen.io/nav-mike/pen/QWGXreP)
 
