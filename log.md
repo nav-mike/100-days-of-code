@@ -232,3 +232,10 @@
 
 **Link to work:** [freeCodeCamp](https://codepen.io/nav-mike/pen/QWGXreP)
 
+### Day 30: March 26, 2021
+
+**Today's Progress**: I did with freeCodeCamp html+css tasks (portfolio page).
+
+**Thoughts:** Tomorrow I will continue with freeCodeCamp.
+
+**Link to work:** [freeCodeCamp](https://codepen.io/nav-mike/pen/QWGXreP)
