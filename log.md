@@ -250,7 +250,7 @@
 
 ### Day 32: March 31, 2021
 
-**Today's Progress**: I've finished my protfolio page (freeCodeCamp task).
+**Today's Progress**: I've finished my portfolio page (freeCodeCamp task).
 
 **Thoughts:** Tomorrow I will continue with freeCodeCamp courses (JS).
 
