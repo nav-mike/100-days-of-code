@@ -247,3 +247,11 @@
 **Thoughts:** Tomorrow I will continue with freeCodeCamp.
 
 **Link to work:** [portfolioPage](https://codepen.io/nav-mike/full/jOyPvvV)
+
+### Day 32: March 31, 2021
+
+**Today's Progress**: I've finished my protfolio page (freeCodeCamp task).
+
+**Thoughts:** Tomorrow I will continue with freeCodeCamp courses (JS).
+
+**Link to work:** [portfolioPage](https://codepen.io/nav-mike/full/jOyPvvV)
