@@ -255,3 +255,11 @@
 **Thoughts:** Tomorrow I will continue with freeCodeCamp courses (JS).
 
 **Link to work:** [portfolioPage](https://codepen.io/nav-mike/full/jOyPvvV)
+
+### Day 33: April 1, 2021
+
+**Today's Progress**: I've added my portfolio page to github pages.
+
+**Thoughts:** Tomorrow I will continue with freeCodeCamp courses (JS).
+
+**Link to work:** [GitHub pages](https://nav-mike.github.io)
